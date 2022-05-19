@@ -17,10 +17,10 @@ The following are required in your local computer to run this program efficientl
 
 
 ## Results for Regions with the Highest Crimes
-![Image2](https://github.com/UPenn-CIT599/final-project-team-14-philly-phelons/blob/master/Screen%20Shot%202020-04-27%20at%2016.48.53.png)
+![Image2](https://raw.githubusercontent.com/P0bbn/Philly-Phelons/master/Screen%20Shot%202020-04-27%20at%2016.48.53.png?token=GHSAT0AAAAAABSWNYEZVQLOAHYOR5JJHIWKYUGXOPA)
 
 ## Results for Regions with Disturbance Crimes
-![Image3](https://github.com/UPenn-CIT599/final-project-team-14-philly-phelons/blob/master/Screen%20Shot%202020-04-27%20at%2016.49.18.png)
+![Image3](https://raw.githubusercontent.com/P0bbn/Philly-Phelons/master/Screen%20Shot%202020-04-27%20at%2016.49.18.png?token=GHSAT0AAAAAABSWNYEZEGNX2JOJJPSZO6YGYUGXPJQ)
 
 ## Built With:
 * JavaSwing
