@@ -13,7 +13,7 @@ The following are required in your local computer to run this program efficientl
 1. In Eclipse, run the `AppViewer.java` class. 
 
 ## Results for Most Frequent Crime in the league selected by user
-![Image1](https://github.com/UPenn-CIT599/final-project-team-14-philly-phelons/blob/master/Screen%20Shot%202020-04-27%20at%2016.48.42.png)
+![Image1](Screen Shot 2020-04-27 at 16.48.42.png)
 
 
 ## Results for Regions with the Highest Crimes
